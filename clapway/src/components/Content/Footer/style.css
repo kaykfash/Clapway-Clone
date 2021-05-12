@@ -1,0 +1,40 @@
+.footer-container{
+    margin-top: 40px;
+    display: flex;
+   justify-content: space-between;
+   color: white;
+   background-color: black;
+   font-family: "open sans", arial, sans-serif;
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 21px;
+}
+
+
+
+.copyright{
+    width: 50%;
+    padding: 15px;
+}
+
+.footer-links{
+    width: 50%;
+    padding: 15px;
+}
+.footer-links a{
+    text-decoration: none;
+    margin-right:40px;
+    color: white;
+}
+.first-footer-icon{
+    font-size: 65px; 
+    color: #fd5776; 
+    position: sticky;
+}
+
+.last-footer-icons i{
+  font-size: 35px;
+  color: #fd5776;
+  position: sticky;
+  
+}

@@ -1,0 +1,139 @@
+.science-header{
+    height: 80px;
+    width: 120px;
+    margin-top: 40px;
+    font-family: roboto, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size:32px;
+    line-height: 29px;
+    color: black;
+}
+
+.science-subheader{
+    width: 140%;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    font-family: Roboto, sans-serif;
+}
+
+.mushroom-img{
+    height: 170px;
+    width: 100%;
+}
+
+.science-body p{
+    padding: 10px;
+    width: 110%;
+}
+
+.science-button{
+    border: none;
+    color: white;
+    padding: 5px;
+    background-color: black;
+    margin-left: 10px;
+}
+
+.services-header{
+    height: 80px;
+    width: 120px;
+    margin-top: 40px;
+    margin-left: 120px;
+    font-family: roboto, sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size:32px;
+    line-height: 29px;
+    color: black; 
+}
+
+.services-card{
+    margin-left: 120px;
+}
+
+.services-body p{
+    margin-top: 10px;
+    width: 180%;
+    font-weight: 500;
+    line-height: 21px;
+    font-size: 16px;
+    font-family:Roboto, sans-serif;
+
+}
+
+.opwriting-img{
+    margin-top: 45px;
+}
+
+.services-body p{
+    margin-top: 10px;
+    width: 200%;
+    font-weight: 500;
+    line-height: 21px;
+    font-size: 16px;
+    font-family:Roboto, sans-serif;
+
+}
+
+
+.pen-card{
+    margin-left: 100px;
+    margin-top: 126px;
+}
+.pen-body p{
+    margin-top: 10px;
+    width: 200%;
+    font-weight: 500;
+    line-height: 21px;
+    font-size: 16px;
+    font-family:Roboto, sans-serif;
+
+}
+.machine-card{
+    margin-left: 100px;
+    margin-top: 85px;
+}
+
+.machine-body p{
+    margin-top: 10px;
+    width: 160%;
+    font-weight: 500;
+    line-height: 21px;
+    font-size: 16px;
+    font-family:Roboto, sans-serif;
+
+}
+
+.summer-card{
+    margin-left: 80px;
+    margin-top: 126px;
+}
+
+.summer-body p{
+    margin-top: 10px;
+    width: 160%;
+    font-weight: 500;
+    line-height: 21px;
+    font-size: 16px;
+    font-family:Roboto, sans-serif;
+}
+
+.psyco-card{
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+.psyco-card p{
+    margin-top: 10px;
+    width: 160%;
+    font-weight: 500;
+    line-height: 21px;
+    font-size: 16px;
+    font-family:Roboto, sans-serif;
+}
+
+hr{
+    margin-top: 50px;
+}

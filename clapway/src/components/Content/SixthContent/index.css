@@ -1,0 +1,15 @@
+.brandscontent-img{
+    height: 250px;
+    width: 100%;
+}
+
+.jumpi-text{
+    padding: 15px;
+    margin-top: 80px;
+    font-weight: 900;
+    font-family: roboto, sans-serif;
+    font-size: 30px;
+    line-height: 38px;
+    color: black;
+    width: 120%;
+}

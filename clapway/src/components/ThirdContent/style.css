@@ -1,0 +1,28 @@
+.crytocontent-img{
+    height: 300px;
+    width: 100%;
+}
+
+.crypo-text{
+    padding: 10px;
+    margin-top: 110px;
+    font-weight: 900;
+    font-family: roboto, sans-serif;
+    font-size: 30px;
+    line-height: 38px;
+    color: black;
+}
+
+h2:hover{
+    color: #fd5776;
+    cursor: pointer;
+}
+
+.crypto-fund{
+    width: 100%;
+    padding: 10px;
+    font-weight: 400;
+    line-height: 26px;
+    font-size: 16px;
+    color: #777777;
+}
