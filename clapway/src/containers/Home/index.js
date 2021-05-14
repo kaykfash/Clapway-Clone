@@ -14,17 +14,16 @@ const Home = props => {
     return ( 
         <div>
             <div className="logo">
-            <img src={Logo} alt="logo"/>
-        </div>
-        <Navbar/>
-        <FirstContent/>
-        <SecondSection/>
-       <ThirdContent/>
-       <FourthContent/>
-       <FifthContent/>
-       <SixthContent/>
-       <Footer/>
-
+                <img src={Logo} alt="logo"/>
+            </div>
+            <Navbar/>
+            <FirstContent/>
+            <SecondSection/>
+            <ThirdContent/>
+            <FourthContent/>
+            <FifthContent/>
+            <SixthContent/>
+            <Footer/>
         </div>
      );
 }
